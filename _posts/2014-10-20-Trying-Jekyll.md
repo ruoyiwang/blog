@@ -9,7 +9,9 @@ The decisions are set, may as well do it, try something new.
 
 From Setting Up Server to Deploying
 -----------------------------------
-### Prologue ###
+
+###Prologue###
+
 Ruby... apparently doesn't play nice with Windows, which is my host machine. Jekyll is not officially supported on Windows. Though there are ways of getting it on it, but I thought screw it, I'll just install it on a vm or something.
 
 As of now, I didn't install it on a vm, instead I created a digital ocean droplet, and I'm making everything there. With the idea of I can access it anywhere as long as I have a terminal. I guess this also goes true that I am hosting it on github, I can just go on github and modify a file or too. (Not like I can't access WordPress from anywhere =__=) I'm just being difficult.
